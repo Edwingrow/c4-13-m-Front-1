@@ -1,1 +1,1 @@
-Proyecto de creción de CRUD consumiendo API de spring
+Proyecto de creación de CRUD consumiendo API de spring
